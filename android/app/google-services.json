@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072719907973",
+    "project_id": "leroto-job-timer",
+    "storage_bucket": "leroto-job-timer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072719907973:android:600dea8684b845bb41adec",
+        "android_client_info": {
+          "package_name": "br.com.jobtimer.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072719907973-0t6ufl92vore7a5ggk2pb30ok2ulpgd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz76J_iD23-izEJ6HVnusmWU-LliZAsHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072719907973-0t6ufl92vore7a5ggk2pb30ok2ulpgd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
